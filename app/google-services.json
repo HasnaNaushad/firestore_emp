@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33268763759",
+    "project_id": "firestore-q7",
+    "storage_bucket": "firestore-q7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33268763759:android:732e8d440c466da368119a",
+        "android_client_info": {
+          "package_name": "com.example.firestore_q7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33268763759-fsp7obrlivr6ptbhluht6baf93n95vbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDV0YdQgOTdWtrfW8T0yDypZBhPmM7QHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33268763759-fsp7obrlivr6ptbhluht6baf93n95vbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
